@@ -1,0 +1,26 @@
+{
+    "name": "wowthemes/cmb2-tabs",
+    "description": "CMB2 Tabs is a plugin for CMB2 which allows developers to horizontal or vertical tabs.",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "WowThemes",
+            "email": "shehbaz2009@gmail.com",
+            "homepage": "https://github.com/wowthemes",
+            "role": "Developer"
+        }
+    ],
+    "keywords": ["wordpress", "plugin", "metabox", "tabs"],
+    "homepage": "https://github.com/wowthemes/cmb2-tabs",
+    "type": "wordpress-plugin",
+    "support": {
+        "issues": "https://github.com/wowthemes/cmb2-tabs/issues"
+    },
+    "require": {
+        "php": ">5.2.4",
+        "webdevstudios/cmb2": "~v2.0"
+    },
+    "suggest": {
+        "composer/installers": "~1.0"
+    }
+}
